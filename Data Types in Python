@@ -5,7 +5,7 @@ Example
   name = "Rohit"
   print("Hello,", name)
   Output : Hello Rohit
-  Used for: Words, sentences, any kind of text.
+  Used for: Words, sentences, any kind of text
 
 2. int (Integer) → Whole numbers
 Example
