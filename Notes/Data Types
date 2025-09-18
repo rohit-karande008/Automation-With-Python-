@@ -1,1 +1,27 @@
+Data types define what kind of data a variable can hold.
+Python has several built-in data types. Here are the most common ones:  
+1. str (String) → For text
+Example
+  name = "Rohit"
+  print("Hello,", name)
+  Output : Hello Rohit
+  Used for: Words, sentences, any kind of text.
 
+2. int (Integer) → Whole numbers
+Example
+age = 25
+print("Age is:", age)
+Output : Age is 26
+Used for: Counting, math, indexing, etc.
+
+3. float (Floating-point) → Decimal numbers
+Example
+price = 19.99
+print("Price:", price)
+Output : Price: 10.5
+Used for: Measurements, currency, percentages.
+
+Check the Type of Any Variable
+x = 10
+print(type(x))  
+Output: <class 'int'>
